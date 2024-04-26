@@ -1,0 +1,11 @@
+/Users/alinashashko/eclipse-workspace/maven_first/src/main/java/edu/training/web/bean/News.java
+/Users/alinashashko/eclipse-workspace/maven_first/src/main/java/edu/training/web/controller/concrete/impl/DoRegistration.java
+/Users/alinashashko/eclipse-workspace/maven_first/src/main/java/edu/training/web/controller/concrete/impl/DoAuth.java
+/Users/alinashashko/eclipse-workspace/maven_first/src/main/java/edu/training/web/controller/concrete/impl/GoToRegistrationPage.java
+/Users/alinashashko/eclipse-workspace/maven_first/src/main/java/edu/training/web/controller/concrete/impl/GoToIndexPage.java
+/Users/alinashashko/eclipse-workspace/maven_first/src/main/java/edu/training/web/controller/concrete/NoSuchCommand.java
+/Users/alinashashko/eclipse-workspace/maven_first/src/main/java/edu/training/web/controller/concrete/CommandName.java
+/Users/alinashashko/eclipse-workspace/maven_first/src/main/java/edu/training/web/controller/Controller.java
+/Users/alinashashko/eclipse-workspace/maven_first/src/main/java/edu/training/web/controller/concrete/CommandProvider.java
+/Users/alinashashko/eclipse-workspace/maven_first/src/main/java/edu/training/web/logic/LogicStub.java
+/Users/alinashashko/eclipse-workspace/maven_first/src/main/java/edu/training/web/controller/concrete/Command.java
