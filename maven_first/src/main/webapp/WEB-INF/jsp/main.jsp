@@ -69,6 +69,10 @@ button {
 		<h1>Welcome to the Java course!</h1>
 		<p>Congratulations on your successful login to the platform. Are
 			you ready to start studying?</p>
+		<p class="lead">
+			<c:out value="${requestScope.invitationMessage}" />
+		</p>
+		<c:out value="${sessionScope.user.name}" />
 
 		<div class="content">
 			<a href="profile.html" class="profile-btn" onclick="goToProfile()">My

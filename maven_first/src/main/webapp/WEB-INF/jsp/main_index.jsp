@@ -79,8 +79,8 @@ button:hover {
 			<h2 class="form-signin-heading text-java text-center">LOGIN TO
 				ACCOUNT</h2>
 			<div class="error-message" id="error-message">
-				<c:if test="${not (requestScope.authError eq null) }">
-					<c:out value="${requestScope.authError}" />
+				<c:if test="${not (param.authError eq null) }">
+					<c:out value="${param.authError}" />
 				</c:if>
 			</div>
 			<div class="form-group">
